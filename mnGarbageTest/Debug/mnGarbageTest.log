@@ -1,0 +1,29 @@
+﻿Der Buildvorgang wurde am 26.01.2016 13:52:18 gestartet.
+     1>Projekt "O:\github\garbage\mnGarbageTest\mnGarbageTest.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\mnGarbageTest.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IO:\github\garbage\mnGarbageTest\../mnGarbage /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\mnGarbageTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mnGarbageTest.cpp
+         mnGarbageTest.cpp
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"O:\github\garbage\mnGarbageTest\Debug\mnGarbageTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mnGarbageTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"O:\github\garbage\mnGarbageTest\Debug\mnGarbageTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"O:\github\garbage\mnGarbageTest\Debug\mnGarbageTest.lib" /MACHINE:X86 Debug\mnGarbageTest.exe.embed.manifest.res
+         Debug\mnGarbageTest.obj
+         Debug\stdafx.obj
+         O:\github\garbage\mnGarbageTest\Debug\mnGarbage.lib
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mnGarbageTest.exe.embed.manifest" /manifest Debug\mnGarbageTest.exe.intermediate.manifest
+         Alle Ausgaben sind aktuell.
+       LinkEmbedManifest:
+         Alle Ausgaben sind aktuell.
+         mnGarbageTest.vcxproj -> O:\github\garbage\mnGarbageTest\Debug\mnGarbageTest.exe
+       FinalizeBuildStatus:
+         Die Datei "Debug\mnGarbageTest.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\mnGarbageTest.lastbuildstate".
+     1>Die Erstellung des Projekts "O:\github\garbage\mnGarbageTest\mnGarbageTest.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:06.94

@@ -1,0 +1,31 @@
+﻿Der Buildvorgang wurde am 26.01.2016 09:14:36 gestartet.
+     1>Projekt "O:\github\garbage\mnGarbage\mnGarbage.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\mnGarbage.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+         Alle Ausgaben sind aktuell.
+         Alle Ausgaben sind aktuell.
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"O:\github\garbage\mnGarbageTest\Debug\mnGarbage.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mnGarbage.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"O:\github\garbage\mnGarbageTest\Debug\mnGarbage.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"O:\github\garbage\mnGarbageTest\Debug\mnGarbage.lib" /MACHINE:X86 /DLL Debug\mnGarbage.dll.embed.manifest.res
+         Debug\dllmain.obj
+         Debug\garbage.obj
+         Debug\mnGarbage.obj
+         Debug\stdafx.obj
+            Bibliothek "O:\github\garbage\mnGarbageTest\Debug\mnGarbage.lib" und Objekt "O:\github\garbage\mnGarbageTest\Debug\mnGarbage.exp" werden erstellt.
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mnGarbage.dll.embed.manifest" /manifest Debug\mnGarbage.dll.intermediate.manifest
+         Alle Ausgaben sind aktuell.
+       LinkEmbedManifest:
+         Alle Ausgaben sind aktuell.
+         mnGarbage.vcxproj -> O:\github\garbage\mnGarbageTest\Debug\mnGarbage.dll
+       FinalizeBuildStatus:
+         Die Datei "Debug\mnGarbage.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\mnGarbage.lastbuildstate".
+     1>Die Erstellung des Projekts "O:\github\garbage\mnGarbage\mnGarbage.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:00.63
